@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtecShopAPI", "EtecShopAPI\EtecShopAPI.csproj", "{10AA128F-1CB4-4E72-9B37-869E33086F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10AA128F-1CB4-4E72-9B37-869E33086F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AA128F-1CB4-4E72-9B37-869E33086F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AA128F-1CB4-4E72-9B37-869E33086F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AA128F-1CB4-4E72-9B37-869E33086F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E7EC3B4-6D1C-4121-A6C6-AF8C83CBAB28}
+	EndGlobalSection
+EndGlobal
